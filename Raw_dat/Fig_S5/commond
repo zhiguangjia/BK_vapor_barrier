@@ -1,0 +1,18 @@
+
+#########################  
+
+ xmgrace agr file and dat file:
+
+
+ RMSD of three simulations
+
+ cp /home/zgjia/Project/BK_channel/Simulation_hBK/manuscript_vapor_barrier/Figures_new_version/Fig_S_coreMT_rmsd/ref_0ns_pore.agr rmsd.agr
+
+   rmsd_rep1.dat  rmsd_rep2.dat  rmsd_rep3.dat
+
+ Distribution of helex tilting
+
+ cp /home/zgjia/Project/BK_channel/Simulation_hBK/manuscript_vapor_barrier/Figures_new_version/Fig_SX_S6_move_tilting/full_core_IS_open_hist_1ns.agr helix_tilting.agr 
+
+   helix_316I.dat  helix_316S.dat  helix_core_MT.dat  helix_open.dat  helix_wt.dat
+

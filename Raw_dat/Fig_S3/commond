@@ -1,0 +1,16 @@
+#!/bin/bash
+
+ lipid density  profile  :
+
+ cp /home/zgjia/Project/BK_channel/Simulation_hBK/manuscript_vapor_barrier/Figures_new_version/Fig_S3_lipid_density/anchor.dat .
+ cp /home/zgjia/Project/BK_channel/Simulation_hBK/manuscript_vapor_barrier/Figures_new_version/Fig_S3_lipid_density/50-200ns_*_to_*.dat .
+
+
+  ####   lipid lifetime
+
+ cp /home/zgjia/Project/BK_channel/Simulation_hBK/6v3g_PC_restrain_CTD_filter_from_syn/analysis/lipid_lefitime/hist.dat_normal lipid_lefitime.dat
+  
+
+
+
+
